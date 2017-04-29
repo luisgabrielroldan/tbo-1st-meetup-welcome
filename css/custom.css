@@ -1,0 +1,16 @@
+.no-border {
+    border: none !important;
+    box-shadow: none !important;   
+}
+
+.intro-logo {
+    width: 400px;
+}
+
+.intro-title {
+    width: 400px;
+}
+
+.target-logo {
+    width: 200px;
+}
